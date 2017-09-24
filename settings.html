@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sign In Form</title>
+        <link href='https://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="usr_main.css">
+    </head>
+    <body>
+   <button class="logout" type="button" id="logout_button">Log Out</button>
+        <button class="logout" type="button" id="add_button">Add</button>
+        <button class="logout" type="button" id="view_button">View</button>
+        <button class="logout" type="button" id="setting_button">Settings</button>
+        <div class="settings">
+        <form action="index.html" method="post" id="usr_form">
+    
+      
+        <h1 id="title">Settings</h1>
+        
+        <fieldset>
+          <label for="name" class="b">Old password:</label>
+          <input type="password" id="old_password" name="oldPassword" maxlength="20" class="b">
+          
+          <label for="mail" class="b">New password</label>
+          <input type="password" id="new_password" name="newPassword" class="b">
+            
+          <label for="pay"class="b">Re-enter new password:</label>
+          <input type="password" id="re_new_password" name="reNewPassword"class="b">
+          
+          <label class="b">New email address:</label>
+            <input type="text" id="new_email" class="b">
+            <label class="b">Re-enter new email address:</label>
+            <input type="text" id="re_new_email" class="b">
+        </fieldset>
+        <fieldset>
+            <label id="receive" class="b"></label>
+        
+        </fieldset>
+            <label id="receive" class="b"></label>
+        <button type="button" id="save" class="b">Save</button>
+        <button type="button" id="cancel" class="b">Cancel</button>
+            <div id="new_button">
+            </div>
+        
+        </form>
+            </div>
+      <script src="settings.js"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+    </body>
+</html>

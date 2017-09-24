@@ -1,0 +1,40 @@
+transactor_nameImperial College
+transaction_date2017-09-24
+payment27500
+inout
+noteTuition Fee
+transactor_nameTesco
+transaction_date2017-09-24
+payment2
+inout
+noteBuying water
+transactor_namecinema
+transaction_date2017-09-24
+payment5
+inout
+noteWatching films
+transactor_namecosmo
+transaction_date2017-09-24
+payment8
+inoutO
+noteHaving lunch
+transactor_nametesco
+transaction_date2017-09-24
+payment1
+inout
+noteBuy drinks
+transactor_nameairbnb
+transaction_date2017-09-24
+payment49
+inout
+noteAccommodation
+transactor_namedozo
+transaction_date2017-09-24
+payment10
+inout
+noteCurry
+transactor_namecosta
+transaction_date2017-09-24
+payment2
+inout
+noteCoffee

@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+@font-face {
+    font-family: 'Slabo 27px', serif;
+    src:url('https://fonts.googleapis.com/css?family=Slabo+27px');
+}
+
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-image: url('saber.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+#welcome {
+    color: black;
+    font-family: 'Slabo 27px', serif; 
+    font-size: 55px;
+}
+
+#main {
+    width: 20%;
+    height: 40%;
+}
+
+#login {
+    color: black;
+    font-family: 'Slabo 27px', serif;
+    font-size: 35px;
+    border-style: none;
+    background-color: transparent;
+    width: 100%;
+    height: 30%;
+    cursor: pointer;
+}
+
+#login:hover {
+    background-color: azure;
+}
+
+#register {
+    color: black;
+    font-family: 'Slabo 27px', serif;
+    font-size: 35px;
+    border-style: none;
+    background-color: transparent;
+    width: 100%;
+    height: 30%;
+    cursor:pointer;
+}
+
+#register:hover {
+    background-color: azure;
+}

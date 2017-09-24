@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>Register</title>
+        <link href = 'login.css' rel='stylesheet' type='text/css'/>
+
+</head>
+
+<body>
+    <form action="index.html" method="post">
+  
+    <h1 id="title">Sign up</h1>
+    
+    <fieldset>
+      
+      <label for="username" class="b">Username:</label>
+      <input type="text" id="name" name="user_name" placeholder="no longer than 10 characters" class="b">
+      
+      <label for="password" class="b">Password:</label>
+      <input type="password" id="password" name="user_password" placeholder="no shorter than 8 characters" class="b">
+        
+        <label for="re_password" class="b">Re-enter Password:</label>
+        <input type="password" id="re_password" name="re_user_password" placeholder="no shorter than 8 characters" class="b">
+      
+        <label for="email" class="b">Email:</label>
+        <input type="email" id="email" name="user_email" placeholder="enter a valid email address" class="b"> 
+    </fieldset>
+    <button type="button" id="register_button" class="b">Register</button>
+    <a href="login.html"><button type="button" class="b">Registered User</button></a>
+    <a href="index.html"><button type="button">Back</button></a>
+  </form>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+    <script src="register.js"></script>
+</body>
+</html>
