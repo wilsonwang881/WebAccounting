@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+@font-face {
+    font-family: 'Slabo 27px', serif;
+    src:url('https://fonts.googleapis.com/css?family=Slabo+27px');
+}
+
+body {
+    font-family: 'Slabo 27px', serif;
+    color: black;
+    background-image: url('saber.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+form {
+    font-family: 'Slabo 27px', serif;
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: azure;
+    border-radius: 8px;
+}
+
+h1 {
+    margin: 0 0 30px 0;
+    text-align: center;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea,
+
+select {
+    background: rgba(255,255,255,0.1);
+    border: none;
+    font-family: 'Slabo 27px', serif;
+    font-size: 25px;
+    height: auto;
+    margin: 0;
+    outline: 0;
+    padding: auto;
+    width: 100%;
+    background-color: white;
+    color: #8a97a0;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 30px;
+}
+
+select {
+    padding: 6px;
+    height: 40px;
+    border-radius: 2px;
+}
+
+button {
+    padding: 10px 39px 10px 39px;
+    color: #FFF;
+    background-color: #4bc970;
+    font-size: 24px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 3px;
+    width: 100%;
+    border: 1px solid #3ac162;
+    border-width: 1px 1px 3px;
+    box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+    margin-bottom: 10px;
+    font-family: 'Slabo 27px', serif;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
+
+button:active {
+    background-color: #3e8e41;
+    /*  box-shadow: 0 5px #666;*/
+    transform: translateY(2px);
+}
+
+#get_date {
+    text-align: left;
+    width: 40%;
+}
+
+fieldset {
+    margin-bottom: none;
+    border: none;
+}
+
+legend {
+    font-size: 1.4em;
+    margin-bottom: 10px;
+}
+
+label {
+    font-family: 'Slabo 27px', serif;
+    font-size: 27px;
+    display: block;
+    margin-bottom: 8px;
+}
+
+label.light {
+    font-weight: 300;
+    display: inline;
+}
+
+.number {
+    background-color: #5fcf80;
+    color: #fff;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    font-size: 0.8em;
+    margin-right: 4px;
+    line-height: 30px;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+    border-radius: 100%;
+}
+
+@media screen and (min-width: 480px) {
+    form {
+        max-width: 480px;
+    }
+}
+
+#logout{
+    font-size: 25px;
+    font-family: 'Slabo 27px', serif;
+}
+
+optgroup {
+    font-family: 'Slabo 27px', serif;
+    font-size: 25px;
+}
+
+
+div.relative {
+    position: absolute;
+    left: 16%;
+}
+
+.logout {
+    width: 15%;
+    padding: 10px 10px 10px 10px;
+}
+
+#form {
+    font-family: 'Slabo 27px', serif;
+    max-width: 80%;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: azure;
+    border-radius: 8px;
+
+}

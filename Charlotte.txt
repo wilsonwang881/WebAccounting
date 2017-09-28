@@ -1,0 +1,35 @@
+transactor_nameLondon
+transaction_date2017-09-24
+payment2
+inout
+noteTube costs
+transactor_nameManchester
+transaction_date2017-09-24
+payment10
+inout
+noteFood
+transactor_nameOyster London
+transaction_date2017-09-24
+payment7
+inout
+noteLondon Overground
+transactor_nameOyster
+transaction_date2017-09-24
+payment6
+inout
+noteLondon Underground
+transactor_nameLondon tesco
+transaction_date2017-09-24
+payment5
+inout
+noteBuying food
+transactor_namesainsburrys
+transaction_date2017-09-24
+payment2
+inout
+noteBuying bread
+transactor_namedozo
+transaction_date2017-09-24
+payment8
+inout
+noteJapanese food

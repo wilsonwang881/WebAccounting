@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="author" content="：Wilso Wang, Junda Li, Yujia Liu" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log in</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    
+<!--  <form action="index.html" method="post">-->
+  <form>
+    <h1 id="title">Log in</h1>
+    
+    <fieldset>
+      
+      <label for="usrname" class="b">Username:</label>
+      <input type="text" id="name" name="user_name" class="b">
+      
+      <label for="password" class="b">Password:</label>
+      <input type="password" id="password" name="user_password" class="b">
+        
+        <label id="receive" class="b"></label>
+      
+    </fieldset>
+    <button type="button" id="login_button" class="b">Login</button>
+    <a href="register.html"><button type="button" class="b">Register</button></a>
+      <a href="forget_passwd.html"><button type="button" class="b">Forgot your password?</button></a>
+    <a href="index.html"><button type="button" class="b">Back</button></a>
+  </form>
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+  <script src="login.js"></script>
+</body>
+</html>
