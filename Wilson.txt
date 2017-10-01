@@ -1,0 +1,80 @@
+transactor_nameImperial College
+transaction_date2017-09-24
+payment27500
+inout
+noteTuition Fee
+transactor_nameTesco
+transaction_date2017-09-24
+payment2
+inout
+noteBuying water
+transactor_namecinema
+transaction_date2017-09-24
+payment5
+inout
+noteWatching films
+transactor_namecosmo
+transaction_date2017-09-24
+payment8
+inoutO
+noteHaving lunch
+transactor_nametesco
+transaction_date2017-09-24
+payment1
+inout
+noteBuy drinks
+transactor_nameairbnb
+transaction_date2017-09-24
+payment49
+inout
+noteAccommodation
+transactor_namedozo
+transaction_date2017-09-24
+payment10
+inout
+noteCurry
+transactor_namecosta
+transaction_date2017-09-24
+payment2
+inout
+noteCoffee
+transactor_namedozo
+transaction_date2017-09-28
+payment8
+inoutI
+noteJapanese ramen, oishi!
+transactor_nameshopping at waitrose
+transaction_date2017-09-28
+payment11
+inoutO
+noteBuying beef steaks!
+transactor_namesainsburrys
+transaction_date2017-09-28
+payment4
+inoutO
+noteBeef steaks at Sainsburrys!
+transactor_nameI don't know
+transaction_date2017-09-28
+payment0
+inoutO
+noteI don't want to squander the money.
+transactor_nameasdf
+transaction_date2017-09-28
+paymentNaN
+inout
+noteasdf
+transactor_nameDozoAgain
+transaction_date2017-09-28
+payment8
+inoutO
+noteDozo is expensive.
+transactor_namehelloworld
+transaction_date2017-09-28
+payment1
+inoutO
+notetest message
+transactor_namenew_entry
+transaction_date2017-10-01
+payment3
+inoutI
+noteTesting
