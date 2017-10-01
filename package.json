@@ -1,0 +1,20 @@
+{
+  "name": "SAC_Project_Web_Online_Accounting",
+  "version": "1.0.0",
+  "description": "SAC_Project_Web",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+      "nodemailer": "^4.1.0"
+  }
+}

@@ -1,0 +1,34 @@
+Group Members:
+YUJIA LIU
+JUNDA LI
+WILSON WANG
+
+Problem:
+Files that record daily expenditure are not on the same computer
+Troublesome to switch on the computer and open the spreadsheet to do the editing
+
+Solution:
+Build a website that enables online editing and saving data to a server
+The website can be accessed via either computers or smart phones
+
+MVP and Core Technologies:
+AJAX
+Support login/register
+Support entering data in a form in a browser
+Include Google Map API so that users can mark where the expenditure takes place
+Support rendering the data in a diagram, i.e. show the line chart
+Include verification code
+
+Stretch Features:
+Support login/register using a third-party account like Facebook or Google
+Support exporting files into certain formats and save to a local machine
+Allow administrator to interact with the server via the console/CMD
+Use Database like SQL Server or MySQL
+Put the pay in/out into selection box
+Arrange the entries in certain order
+More error messages, more specific, etc, non-reapeat usernames, non-repeat email addresses
+More personized settings, like changing the wallpapers, etc
+Encrypt user data
+
+Google Map API Key: 
+AIzaSyDPYJBQnv40f2dG3lqMaAzJOL575fHaxjY
